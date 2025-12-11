@@ -1,0 +1,8 @@
+{
+  "name": "ETHX Token",
+  "symbol": "ETHX",
+  "logoURI": "https://raw.githubusercontent.com/zaur238/ETHX/main/token-lists/ethx_logo.png",
+  "decimals": 18,
+  "address": "0x84282eB72Ec2D47c9f418397dB849947c23a7e32",
+  "chainId": 1
+}
